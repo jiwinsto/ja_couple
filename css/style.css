@@ -148,6 +148,15 @@ color: #078282FF;
   padding-top: 20px;
 }
 
+.texter{
+  font-family: 'Montserrat', sans-serif;
+  color: #078282FF;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 1px;
+  padding-top: 20px;
+}
+
 .texti{
   font-family: 'Dancing Script', cursive;
   padding-top: 20px;
@@ -159,6 +168,7 @@ text-align: center;
 
 .ode .imgBx{
   width: 50%;
+  color: #51e2f5;
   background-size: cover;
   background-position: center;
 }
